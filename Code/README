@@ -1,0 +1,18 @@
+
+Save all files to a folder called Robot in you're Arduino sketch folder.
+
+Open Robot.ino and the other files will appear as tabs in the Arduino IDE.
+
+
+This code uses the following library's....
+
+VarSpeedServo.h  // Variable speed servo library by Korman, https://forum.arduino.cc/index.php?topic=61586.0
+PS2X_lib.h       // PS2X Library by Bill Porter, http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
+
+Github links for each
+https://github.com/netlabtoolkit/VarSpeedServo
+https://github.com/madsci1016/Arduino-PS2X
+
+
+
+
