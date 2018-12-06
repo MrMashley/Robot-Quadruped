@@ -6,3 +6,4 @@ The body and legs are 3D printed, has a total of 8 Turnigy XGD-11HMB Servo motor
 
 Version history
 2018-12-06 Initial Github Commit
+2018-12-06 Another Commit
